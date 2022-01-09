@@ -15,9 +15,9 @@ if(numeropecas < 10) {
     console.log("nao ha espaco disponvel na caixa")
 }
 
-let nomepeca = "calota"
-console.log("o comprimento do nome da peca e", nomepeca. comprimento)
-if(nomepeca. comprimento < 3) {
+let nomepeca = 'calota'
+console.log("o comprimento do nome da peca e:", nomepeca.length)
+if(nomepeca.length< 3) {
     console.log("nao e possivel cadastrar, pois o o nome e muito curto")
 } else {
     console.log("nome da peca esta adequado, podemos cadastrar")

@@ -1,0 +1,20 @@
+Sistema de monitoramento de peças 
+
+3 Requisitos 
+
+  1- Verficar se a peça possui mais de 100g de peso
+		 ok-sim: pode cadastrar
+		ok-não: não pode cadastrar
+
+
+  2- Verificar se o número de peças é menor que 10
+		ok-menos de 10 peças: pode cadastrar 	
+                ok-10 peças ou mais: não pode cadastrar 
+
+
+ 
+  3- Verificar o comprimento do nome da peça se for 3 ou > pode cadastrar 
+                menos de 3 caracteres- não pode cadastrar 
+                3 caracteres ou mais- pode cadastrar 
+	
+			 
